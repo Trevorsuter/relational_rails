@@ -22,5 +22,6 @@ ActiveRecord::Schema.define(version: 2021_02_03_204033) do
     t.boolean "original_franchise"
     t.integer "stanley_cups"
   end
+  
 
 end
